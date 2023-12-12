@@ -1,10 +1,39 @@
 # Aras Innovator FileType Extension Package
 ## Description
 Official unofficial extension package for the FileType ItemType in Aras Innovator. Contains missing file type extensions especially for software files. 
+
+The additional FileTypes are very helpful for exotic file types that are not self explaining for the end user. The additional FileTypes help users to understand to understand the context of a File more easily. It´s not a killer enhancement, but it´s a nice and low cost improvement. 
+
 Following FileTypes are included:
 
-## Why this package?
 tbd
+7z, exe, ini, bat, ico, bin, tar, app, ...
+
+
+## Why this package?
+
+#Consistency Across Environments:
+Standardizing the file type table ensures that all users maintain a consistent environment. Without standardization, different users might have variations in their tables, leading to compatibility issues when exchanging data or collaborating on the project.
+
+#Avoids Runtime Errors:
+Inconsistent table structures can result in runtime errors, making it challenging to identify and debug issues. Standardization reduces the risk of runtime errors related to the file type management, providing a more stable and predictable development environment.
+
+#Enhances Collaboration:
+Standardization facilitates collaboration by providing a common ground for all contributors. When everyone follows the same structure, it becomes easier for developers to understand, review, and build upon each other's work. This, in turn, accelerates the development process and fosters a more cohesive community of contributors.
+
+#Simplifies Maintenance
+A standardized file type table simplifies maintenance tasks. Updates and modifications to the table can be implemented more smoothly when everyone adheres to a shared structure. This ensures that new file types and changes are seamlessly integrated into the existing system without causing disruptions.
+
+#Mitigates Data Integrity Risks:
+Inconsistent file type tables pose risks to data integrity. Standardization helps mitigate these risks by providing a reliable framework for managing file types. Users can confidently rely on the stability of the table, ensuring that data associated with specific file types remains accurate and dependable.
+
+#Sustainable Development Practices:
+Standardization aligns with sustainable development practices. It establishes a foundation for long-term project growth and maintenance, making it easier for the project to evolve over time. Adopting standardized structures contributes to the project's longevity and adaptability.
+
+
+## IMPORTANT
+
+Innovator automatically assings the new FileTypes to the Files in the Vault! This step cannot be reverted easily. Only use this project if you really want to use the FileTypes!
 
 ## Project Details
 
