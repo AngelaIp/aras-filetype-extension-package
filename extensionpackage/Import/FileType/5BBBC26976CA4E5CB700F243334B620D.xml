@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="5BBBC26976CA4E5CB700F243334B620D" action="add">
+  <description>Outlook Mail Message</description>
+  <extension>msg</extension>
+  <mimetype>application/vnd.ms-outlook</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>Outlook Message	</name>
+ </Item>
+</AML>

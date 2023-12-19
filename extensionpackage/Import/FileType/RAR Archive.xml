@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="A40592E7834244E6B6AD43332AFE7B21" action="add">
+  <description>RAR Compressed Archive</description>
+  <extension>rar</extension>
+  <mimetype>application/x-rar-compressed</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>RAR Archive</name>
+ </Item>
+</AML>

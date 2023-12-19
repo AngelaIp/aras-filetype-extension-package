@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="0FB18C6B745147129EA4C142A99D5950" action="add">
+  <description>Windows Installer Package File</description>
+  <extension>msi</extension>
+  <mimetype>application/octet-stream</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>Windows Installer Package</name>
+ </Item>
+</AML>

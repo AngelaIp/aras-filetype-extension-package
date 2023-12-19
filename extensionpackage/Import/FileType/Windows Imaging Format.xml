@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="E30B4F56FF8E46289B335B47B3B03A98" action="add">
+  <description>Windows Imaging Format File</description>
+  <extension>wim</extension>
+  <mimetype>application/x-ms-wim</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>Windows Imaging Format</name>
+ </Item>
+</AML>

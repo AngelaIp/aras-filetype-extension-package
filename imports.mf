@@ -1,0 +1,3 @@
+<imports>
+  <package name="ai.ext.filetype.extensionpackage" path="extensionpackage\Import" />
+</imports>

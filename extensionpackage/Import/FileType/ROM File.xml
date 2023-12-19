@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="E3E0D8892A2346E3A80BFC30D74A7FBC" action="add">
+  <description>Read-Only Memory Image File</description>
+  <extension>rom</extension>
+  <mimetype>application/octet-stream</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>ROM File</name>
+ </Item>
+</AML>

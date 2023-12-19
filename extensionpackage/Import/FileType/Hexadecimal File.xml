@@ -1,0 +1,11 @@
+﻿<AML>
+ <Item type="FileType" id="573B914473A347E8937D14EDB221A193" action="add">
+  <description>Hexadecimal Data File</description>
+  <extension>hex</extension>
+  <mimetype>text/plain</mimetype>
+  <priority>1</priority>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>Hexadecimal File</name>
+ </Item>
+</AML>

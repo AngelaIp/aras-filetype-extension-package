@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="A6506EC371AD44989E6ADABBB11E20F4" action="add">
+  <description>Gzip-compressed TAR Archive</description>
+  <extension>tgz</extension>
+  <mimetype>application/x-compressed-tar</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>Gzip-compressed TAR Archive</name>
+ </Item>
+</AML>

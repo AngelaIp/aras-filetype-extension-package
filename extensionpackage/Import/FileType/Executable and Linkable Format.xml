@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="0B51C67AA6CE40A798B7A35485FE7F2D" action="add">
+  <description>Executable and Linkable Format File</description>
+  <extension>elf</extension>
+  <mimetype>application/x-executable</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>Executable and Linkable Format</name>
+ </Item>
+</AML>

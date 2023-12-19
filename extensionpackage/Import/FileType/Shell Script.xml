@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="853F999C1D91458E912AF6B60D3A8071" action="add">
+  <description>Shell Script File</description>
+  <extension>sh</extension>
+  <mimetype>text/x-shellscript</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>Shell Script</name>
+ </Item>
+</AML>

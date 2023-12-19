@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="3BEF8B9DC45C4AF682CD7D3154711961" action="add">
+  <description>MD5 Hash Value File</description>
+  <extension>md5</extension>
+  <mimetype>text/plain</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>MD5 Hash File</name>
+ </Item>
+</AML>

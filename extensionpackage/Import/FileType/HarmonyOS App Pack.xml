@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="64ECC78179E343049801C273CABDF6E4" action="add">
+  <description>HarmonyOS App Pack</description>
+  <extension>app</extension>
+  <mimetype>application/octet-stream</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>HarmonyOS App Pack</name>
+ </Item>
+</AML>

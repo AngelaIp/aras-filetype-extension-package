@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="5F353366C8254AFDBD1B8BC3D63E3A7D" action="add">
+  <description>Device Firmware Update Image File</description>
+  <extension>dfu</extension>
+  <mimetype>application/octet-stream</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>DFU Firmware Image</name>
+ </Item>
+</AML>

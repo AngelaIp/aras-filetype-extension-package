@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="37C2A3CC582246E28DB31ABD48A3C3A1" action="add">
+  <description>JavaScript Object Notation File</description>
+  <extension>json</extension>
+  <mimetype>application/json</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>JSON File</name>
+ </Item>
+</AML>

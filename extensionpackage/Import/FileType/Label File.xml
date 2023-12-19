@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="83FFE5919AEB479C868AD10A24DDE4F3" action="add">
+  <description>Label Definition File</description>
+  <extension>lbl</extension>
+  <mimetype>text/plain</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>Label File</name>
+ </Item>
+</AML>

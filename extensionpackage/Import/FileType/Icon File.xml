@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="1136BE5AA79648F8B6AF7DF937FF0315" action="add">
+  <description>Icon Image File</description>
+  <extension>ico</extension>
+  <mimetype>image/x-icon</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>Icon File</name>
+ </Item>
+</AML>

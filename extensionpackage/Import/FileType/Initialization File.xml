@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="86402DD344C34BC0B5D8448F4EBDA887" action="add">
+  <description>Initialization/Configuration Settings File</description>
+  <extension>ini</extension>
+  <mimetype>text/plain</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>Initialization File</name>
+ </Item>
+</AML>

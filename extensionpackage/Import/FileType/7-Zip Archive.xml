@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="90EF835D9E294CAABEB266903A7C6869" action="add">
+  <description>7-Zip Compressed Archive</description>
+  <extension>7z</extension>
+  <mimetype>application/x-7z-compressed</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>7-Zip Archive</name>
+ </Item>
+</AML>

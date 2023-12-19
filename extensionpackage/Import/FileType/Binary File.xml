@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="FileType" id="4FDB43F47CB04CCBB1D5C6563674CAE5" action="add">
+  <description>Binary Data File</description>
+  <extension>bin</extension>
+  <mimetype>application/octet-stream</mimetype>
+  <use_magic_bytes>0</use_magic_bytes>
+  <use_regular_expression>0</use_regular_expression>
+  <name>Binary File</name>
+ </Item>
+</AML>
